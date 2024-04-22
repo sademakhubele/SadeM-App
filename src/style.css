@@ -34,10 +34,6 @@ header {
     line-height: 88px;
 }
 
-.weather-app-temp-container {
-    display: flex;
-}
-
 .weather-app-details {
     font-size: 16px;
     line-height: 24px;
